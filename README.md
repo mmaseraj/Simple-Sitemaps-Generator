@@ -84,3 +84,4 @@ echo $generator->generate();
 
 </sitemapindex>
 ```
+More info about sitemaps visit http://www.sitemaps.org/
