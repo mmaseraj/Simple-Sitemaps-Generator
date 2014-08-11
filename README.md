@@ -1,7 +1,7 @@
-Sitemap Generator
+Simple Sitemaps Generator
 ================
 
-Simple sitemap generator class, easy way to generate sitemap.xml files to your php project, with easy inherited api
+Simple sitemaps generator class, easy way to generate sitemap.xml files for your php projects, with easy inherited api
 
 ### Example of generating sitemap.xml
 ```php
